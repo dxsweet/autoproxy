@@ -708,7 +708,6 @@
 ||mgtv.com
 ||mi.com
 ||miaopai.com
-||microsoft.com
 ||mikanani.me
 ||mindstore.io
 ||mingdao.com
@@ -779,7 +778,7 @@
 ||pplive.com
 ||pptv.com
 ||psnine.com
-||pythonclub.org
+
 
 ! Q
 ||qbox.me
