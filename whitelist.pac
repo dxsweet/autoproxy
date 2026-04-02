@@ -721,7 +721,6 @@
 ||mokeedev.com
 ||momentcdn.com
 ||mpyit.com
-||msftconnecttest.com
 ||mtyun.com
 ||muchong.com
 ||mudu.tv
